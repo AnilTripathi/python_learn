@@ -2,9 +2,9 @@
 
 This repository contains a collection of basic Python programs for learning and practice.
 
-## Programs
+## Exercises
 
-### Assessment 2 Programs (today's programs)
+### Assessment 2 Exercises
 
 - **count_digits_as2.py**: Counts the number of digits in an integer.
 - **divisible_by_3_and_5_as2.py**: Checks divisibility by 3 and 5.
@@ -17,7 +17,7 @@ This repository contains a collection of basic Python programs for learning and 
 - **simple_calculator_as2.py**: A basic calculator for arithmetic operations.
 - **sum_of_digits_as2.py**: Computes the sum of digits of a number.
 
-### Assessment 1 Programs (previous programs)
+### Assessment 1 Exercises
 
 - **average_calculator.py**: Calculates the average of multiple numbers.
 - **celsius_to_fahrenheit.py**: Converts temperature from Celsius to Fahrenheit.
