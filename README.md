@@ -4,6 +4,20 @@ This repository contains a collection of basic Python programs for learning and 
 
 ## Exercises
 
+### Assessment 3 Exercises
+
+- **que1_palindrome_checker_ass3.py**: Checks whether a string or number is a palindrome.
+- **que2_list_average_ass3.py**: Computes the average of a list of numbers.
+- **que3_merge_and_sort_ass3.py**: Merges and sorts lists.
+- **que4_even_odd_tupple_ass3.py**: Separates even and odd values from a tuple.
+- **que5_student_menu_program_ass3.py**: A student menu program with options.
+- **que6_word_length_dict_ass3.py**: Creates a dictionary of words and their lengths.
+- **que7_count_spaces.ass3.py**: Counts spaces in a text string.
+- **que8_no_common_elements.ass3.py**: Finds non-common elements between sequences.
+- **que9_duplicate_elements_ass3.py**: Identifies duplicate elements in a collection.
+- **que10_unique_characters_ass3.py**: Finds unique characters in a string.
+- **que11_student_marks_dict_ass3.py**: Stores and displays student marks using a dictionary.
+
 ### Assessment 2 Exercises
 
 - **count_digits_as2.py**: Counts the number of digits in an integer.
